@@ -1,11 +1,5 @@
 # EcoRide Car Rental System
 
-> **Coursework 1** — CI6115 Programming: Patterns and Algorithms  
-> KU BSc in Computing | ESOFT Metro Campus  
-> **Student:** Sevin Dilneth &nbsp;|&nbsp; **ID:** K2558793
-
----
-
 A Java Swing desktop application that manages the complete lifecycle of an eco-friendly car rental service — from fleet and customer management through to reservations, invoicing, and payment processing. Built using object-oriented design patterns with a layered architecture separating entities, business logic, data storage, and the GUI.
 
 ---
