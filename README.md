@@ -177,7 +177,7 @@ EcoRideCarRental/
 
 ## Class Diagram
 
-![Class Diagram](screenshots/EcoRide Car Rental System.png)
+![Class Diagram](screenshots/EcoRide_Car_Rental_System.png)
 
 ---
 
